@@ -293,5 +293,3 @@ FROM (
 	GROUP BY [Customer_name]
 ) X
 WHERE retained_customers_within_30_days = 1
-
---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

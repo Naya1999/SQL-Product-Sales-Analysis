@@ -4,7 +4,7 @@ GO
 /*
                                            SQL SALES ANALYSIS
 This project aims to use sql code to draw insights from a sales database focusing on quarterly performance, popular products in store,
-payment methods, and deleivery efficiency.
+payment methods, and delivery efficiency.
 */
 
 
